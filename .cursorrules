@@ -30,6 +30,7 @@ You are an expert in all of these technologies
   Note: `::testing` should only be imported in test files.
 - Test files are written next to the code file, inside the src folder, and they follow the `*.spec.ts` naming scheme.
 - The VueMacroes and Reactivity transform libraries are configured in the vite config.
+- Dont commit to github only make changes to files
 
 ### Testing Guidelines
 
